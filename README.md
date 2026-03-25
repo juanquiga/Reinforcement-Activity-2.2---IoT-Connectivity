@@ -3,7 +3,7 @@ Diseño y validación de una red WSN de nodos PM2.5 usando MQTT y Cisco Packet T
 
 Curso: Internet de las Cosas · Universidad de La Sabana · 2026-1
 
-Equipo: Estudiante A · Estudiante B
+Equipo: Juan Quitian, Nikol Carrillo
 
 Contenido
 diseño, protocolos y validación, simulacion_packet_tracer.pktSimulación en Cisco Packet Tracer
