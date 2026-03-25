@@ -6,7 +6,7 @@ Curso: Internet de las Cosas · Universidad de La Sabana · 2026-1
 Equipo: Estudiante A · Estudiante B
 
 Contenido
-ArchivoDescripciónwiki_iot_conectividad.docxWiki completa: diseño, protocolos y validaciónsimulacion_packet_tracer.pktSimulación en Cisco Packet Tracer
+diseño, protocolos y validación, simulacion_packet_tracer.pktSimulación en Cisco Packet Tracer
 
 Video
 🔗 [Agregar URL aquí]
