@@ -5,8 +5,5 @@ Curso: Internet de las Cosas · Universidad de La Sabana · 2026-1
 
 Equipo: Juan Quitian, Nikol Carrillo
 
-Contenido
-diseño, protocolos y validación, simulacion_packet_tracer.pktSimulación en Cisco Packet Tracer
 
-Video
-🔗 [Agregar URL aquí]
+
